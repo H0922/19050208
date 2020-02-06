@@ -12,7 +12,7 @@
 </body>
 <script>
     $.ajax({
-        url:'http://b.com/',
+        url:'http://b.bianaoao.top/',
         data:'GET',
     }).done(function(a){
         alert(a);
